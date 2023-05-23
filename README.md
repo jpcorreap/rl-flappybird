@@ -3,7 +3,8 @@
 
 ### [Use reinforcement learning to train a flappy bird NEVER to die](https://towardsdatascience.com/use-reinforcement-learning-to-train-a-flappy-bird-never-to-die-35b9625aaecc)
 
-### [Video](https://youtu.be/PZ5YEKlKz80)  
+### [Video](https://www.youtube.com/watch?v=KCuFkdlycJM&feature=youtu.be) with results.
+### Original code taken from [kyokin78](https://github.com/kyokin78/rl-flappybird).
 
 ![always flying](res/307K_flying.gif)
 
